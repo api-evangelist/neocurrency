@@ -10,6 +10,9 @@ url: >-
 created: '2026-03-16'
 modified: '2026-04-28'
 specificationVersion: '0.19'
+common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/neocurrency
 apis: []
 maintainers:
   - FN: Kin Lane
